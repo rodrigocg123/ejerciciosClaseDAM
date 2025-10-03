@@ -11,20 +11,20 @@ La diferencia de A - N
 dos variables N y M de tipo double y asigna a cada una un valor. A continuación muestra por
 pantalla:
 El valor de cada variable.
-La suma X + Y
-La diferencia X – Y
-El producto X * Y
-El cociente X / Y
-El resto X % Y
-La suma N + M
-La diferencia N – M
-El producto N * M
-El cociente N / M
-El resto N % M
-La suma X + N
-El cociente Y / M
-El resto Y % M
-El doble de cada variable
+La suma X + Y hecho
+La diferencia X – Y hecho 
+El producto X * Y hecho 
+El cociente X / Y hecho 
+El resto X % Y hecho 
+La suma N + M hecho 
+La diferencia N – M hecho 
+El producto N * M hecho 
+El cociente N / M hecho 
+El resto N % M HECHO
+La suma X + N HECHO
+El cociente Y / M hecho
+El resto Y % M hecho
+El doble de cada variable hecho
 
 3.- Escribe un programa Java que declare una variable entera N y asígnale un valor. A
 continuación escribe las instrucciones que realicen los siguientes pasos mostrando el resultado
